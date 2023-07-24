@@ -23,7 +23,9 @@ Insertion sort:
             Does 13 is placed in correct place?? No.
                           6  8  9  12  14  13  15
                           6  8  9  12  13  14  15.
-            Every element is placed in their respective place and the array got sorted.                           
+            Every element is placed in their respective place and the array got sorted.      
+Time Complexity:O(n^2)-worst and average case.
+	       :O(n) - best case.
 */
 #include<bits/stdc++.h>
 using namespace std;
